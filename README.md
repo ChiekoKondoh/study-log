@@ -12,15 +12,32 @@
   - [ ]
 ---
 ##2026/04/14
-* **eラーニング( java/python/SQL )**
-  - [x] chapter5 動画視聴・Notionにまとめ
-* **フォリオ作成( KenonApp )**：
-  - [ ] 進捗状況の確認
-  - [ ] 今後の作成計画立案(構想の見直し)
-  - [ ] JDBC(H2 Database)接続
-  - [ ] サーブレットの実装(DAOとの連携)
-* **試験対策( FE )** :
-  - [ ] 過去問道場 : 復習1問とテクノロジ・マネジメント・ストラテジ系それぞれ行って9問中6問正解(正答率66.7％)
+* **eラーニング( java/python/SQL)**
+  - [x] chapter5 「式と関数」動画視聴・Notionにまとめ完了
+  <details><summary>✍️ 練習した例文コード（クリック）</summary>
+
+テキストの例文で「CASE演算子の2通りの使い方」を確認しました。
+
+```sql
+--CASE演算子を使ったSLECT文（１） 
+/* 費目の値に応じて変換する */
+SELECT 費目,出金額,
+  CASE 費目　WHEN '住居費' THEN '固定費'
+　　　　　　  WHEN '水道光熱費' THEN '固定費'
+　　　　　　  ELSE '変動費'
+   END AS 出費の分類
+FROM 家計簿 WHERE 出金額 > 0
+-- CASE演算子を使ったSLECT文（2）
+/* 費目の値に応じて変換する */
+SELECT 費目,入金額,
+  CASE WHEN　入金額 < 5000 THEN 'お小遣い'
+ 　　   WHEN　入金額 < 10000 THEN '一次収入'
+　　　　WHEN　入金額 < 30000 THEN '給料でた！'　 
+　　　  ELSE '想定外の収入です'
+   END AS 収入の分類
+　FROM 家計簿 
+　WHERE 出金額 > 0
+</details>
 ---
  ##2026/04/13
 * **eラーニング( java/python/SQL )**
