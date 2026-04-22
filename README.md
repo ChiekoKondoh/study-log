@@ -1,23 +1,26 @@
-##2026/04/22
+##2026/04/23
 * **eラーニング( java/python/SQL )**
-  - [x] chapter10(テーブル作成) 動画視聴・練習問題
+  - [ ] chapter10(テーブル作成) 動画視聴・練習問題
   　　　(dokoQL→AI→Notionまとめ)　   　　　　　　
 * **試験対策( FE )** :
   - [ ] 過去問道場 : 
+---
+##2026/04/22
+* **eラーニング( java/python/SQL )**
+  - [x] chapter10(テーブル作成) 練習問題(完了)
+  　　　(dokoQL→AI→Notionまとめ)　   　　　　　　
 ---
 ##2026/04/21
 * **eラーニング( java/python/SQL )**
   - [x] chapter9(トランザクション)
          動画視聴・練習問題
-        　(dokoQL→AI→Notionまとめ)　   　　　　　　　　　
-* **試験対策( FE )** :
-  - [ ] 過去問道場 :  
+        　(dokoQL→AI→Notionまとめ)  　　　　
 ---
 
 ##2026/04/20
 * **eラーニング( java/python/SQL )**
   - [x] chapter8(複数のテーブル結合) 練習問題(完了)
-  　　　(dokoQL→AI→Notionまとめ)　   　　　　　　　　　
+  　　　(dokoQL→AI→Notionまとめ)　   　　　　　　
 ---
 ##2026/04/19
 * **eラーニング( java/python/SQL )**
