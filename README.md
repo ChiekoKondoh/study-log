@@ -1,4 +1,4 @@
-##2026/04/27
+##2026/04/30
 * **eラーニング( java/python/SQL )**
   - [ ] 基本アーキテクチャ図の書き方を学ぶ   　　　　
 * **フォリオ作成( KenonApp )**：
@@ -7,6 +7,18 @@
         (手書き / drowで清書)
   - [ ] 患者側(体温記録保存、検温履歴参照)
   - [ ] 看護師側(患者管理一覧取得の工程、)
+---
+
+##2026/04/29
+* **eラーニング( java/python/SQL )**
+  - [x] リクエストパラメータの復習  　　　　
+* **フォリオ作成( KenonApp )**：
+  - [x] 基本アーキテクチャ図の修正→Notionへまとめ
+  - [x] index.jsp作成
+  - [x] patient_login.jsp作成
+  - [x] PatientLoginservlet作成
+  - [x] patient_loginOK.jsp作成
+  - [x] header.jsp作成
 ---
 
 
