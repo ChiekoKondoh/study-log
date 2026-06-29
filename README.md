@@ -1,8 +1,34 @@
-##2026/06/27
+##2026/06/29
 * **転職活動** :
   - [ ] 企業検索
+* **自作アプリ制作(IC.ReservationSystem)** :
+  - [ ] DoctorServlet
+  - [ ] PatientServlet
+  - [ ] NurseLogic
+  - [ ] DoctorLogic
+  - [ ] PatientLogic
+---
+
+
+##2026/06/28
+* **転職活動** :
+  - [x] 企業検索
+* **自作アプリ制作(IC.ReservationSystem)** :
+  - [x] index.jsp
+  - [x] nurse_login.jsp
+  - [x] NurseServlet
+  - [x] doctor_login.jsp
+  - [x] patient_login.jsp
+---
+
+
+##2026/06/27
+* **転職活動** :
+  - [x] 企業検索
 * **自作アプリ制作** :
-  - [ ] コードを書く 
+  - [x] アーキテクチャ図(draw.io)作成(完成)
+  - [x] DBカラムまとめ
+  - [x] ファイル一覧まとめ
 ---
 
 ##2026/06/26
