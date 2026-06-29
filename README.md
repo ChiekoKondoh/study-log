@@ -1,4 +1,4 @@
-##2026/06/29
+##2026/06/30
 * **転職活動** :
   - [ ] 企業検索
 * **自作アプリ制作(IC.ReservationSystem)** :
@@ -7,6 +7,21 @@
   - [ ] NurseLogic
   - [ ] DoctorLogic
   - [ ] PatientLogic
+---
+
+##2026/06/29
+* **自作アプリ制作(IC.ReservationSystem)** :
+  - [x] DoctorServlet
+  - [x] PatientServlet
+  - [x] NurseLogic
+  - [x] DoctorLogic
+  - [x] PatientLogic
+  - [x] NurseDAO
+  - [x] DoctorDAO
+  - [x] PatientDAO
+  - [x] Nurse.java
+  - [x] Doctor.java
+  - [x] Patient.java
 ---
 
 
@@ -67,7 +82,7 @@
 * **試験対策( FE )** :
   - [x] 科目B : 疑似言語の参考書が届く。
 * **マーケティングを学ぶ**
-  - [ ] 森岡毅さん著書「USJを劇的に変えた、たった一つの考え方」が届く。→早く読みたい!!
+  - [x] 森岡毅さん著書「USJを劇的に変えた、たった一つの考え方」が届く。→早く読みたい!!
 ---
 
 ##2026/06/21
