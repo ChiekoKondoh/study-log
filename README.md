@@ -1,12 +1,18 @@
-##2026/06/30
+##2026/07/01
 * **転職活動** :
-  - [ ] 企業検索
+  - [ ] K社面接
 * **自作アプリ制作(IC.ReservationSystem)** :
   - [ ] DoctorServlet
   - [ ] PatientServlet
   - [ ] NurseLogic
   - [ ] DoctorLogic
   - [ ] PatientLogic
+---
+
+##2026/06/30
+* **転職活動** :
+  - [x] 履歴書・職務経歴書の修正
+  - [x] 面接練習
 ---
 
 ##2026/06/29
