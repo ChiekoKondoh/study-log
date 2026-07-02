@@ -1,12 +1,28 @@
-##2026/07/01
+##2026/07/03
 * **転職活動** :
   - [ ] K社面接
 * **自作アプリ制作(IC.ReservationSystem)** :
-  - [ ] DoctorServlet
-  - [ ] PatientServlet
-  - [ ] NurseLogic
-  - [ ] DoctorLogic
-  - [ ] PatientLogic
+  - [ ] nurse_menu.jsp
+  - [ ] doctor_menu.jsp
+  - [ ] patient_menu.jsp
+  - [ ] ManagementServlet
+---
+
+##2026/07/02
+* **転職活動** :
+  - [x] 履歴書・職務経歴書の修正
+  - [x] N社へ、中途採用エントリー
+* **自作アプリ制作(IC.ReservationSystem)** :
+  - [ ] nurse_menu.jsp
+  - [ ] doctor_menu.jsp
+  - [ ] patient_menu.jsp
+  - [ ] ManagementServlet
+---
+
+##2026/07/01
+* **転職活動** :
+  - [x] K社面接
+    - **感想** とても緊張したけれど、面接官の方々が和やかな雰囲気を作って下さり、中盤から自分らしく話をすることができました。感謝です。
 ---
 
 ##2026/06/30
