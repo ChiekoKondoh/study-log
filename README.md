@@ -1,3 +1,13 @@
+##2026/09/24
+* **自作アプリ制作(IC.ReservationSystem)** :
+  - [x] ManagementDAO.java
+  - [x] management.jsp
+  - [x] アーキテクチャ図の修正
+* **FE試験対策(科目A)** :
+  - [x] chapter1: Flashcard
+  - [x] chapter2: Flashcard
+---
+
 ##2026/09/23
 * **自作アプリ制作(IC.ReservationSystem)** :
   - [x] 全コードの見直し
