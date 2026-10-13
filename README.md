@@ -1,3 +1,9 @@
+##2026/10/13
+* **FE試験対策(科目A)** :
+  - [ ] chapter1: Flashcard
+  - [ ] chapter2: Flashcard
+---
+
 ##2026/09/24
 * **自作アプリ制作(IC.ReservationSystem)** :
   - [x] ManagementDAO.java
