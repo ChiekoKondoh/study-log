@@ -1,6 +1,6 @@
 ##2026/10/15
 * **FE試験対策(科目A)** :
-  - [ ] chapter1-1〜1-6 : Flashcard
+  - [x] chapter1-1〜1-6 : Flashcard
 ---
 
 ##2026/10/12
